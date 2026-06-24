@@ -33,6 +33,11 @@ Given passenger details, predict whether the passenger survived the Titanic disa
   * 0 → Did Not Survive
 
 ---
+## 🚀 Live Demo
+
+https://abhay200666-titanic-survival-prediction.hf.space
+
+---
 
 ## 📊 Dataset Features
 
