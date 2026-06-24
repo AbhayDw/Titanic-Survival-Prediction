@@ -95,6 +95,19 @@ Features:
 * Hugging Face Deployment Ready
 
 ---
+## 📸 Application Screenshots
+
+### 🏠 Home Page
+
+![Home Page](assets/HomePage.png)
+
+### 📝 Passenger Input Form
+
+![Input Form](assets/Input.png)
+
+### 🎯 Prediction Result
+
+![Prediction Result](assets/Output.png)
 
 ## 🛠️ Technologies Used
 
