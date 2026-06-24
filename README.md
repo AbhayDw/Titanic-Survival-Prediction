@@ -1,6 +1,17 @@
+---
+title: Titanic Survival Prediction
+emoji: 🚢
+colorFrom: blue
+colorTo: indigo
+sdk: gradio
+sdk_version: 5.0.0
+app_file: app.py
+pinned: false
+---
+
 # 🚢 Titanic Survival Prediction
 
-An end-to-end Machine Learning project that predicts whether a passenger would survive the Titanic disaster using **Logistic Regression**. The project includes data preprocessing, exploratory data analysis (EDA), model training, evaluation, and deployment using **Gradio**.
+An end-to-end Machine Learning project that predicts Titanic passenger survival using Logistic Regression.
 
 ---
 
